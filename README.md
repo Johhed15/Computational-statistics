@@ -1,4 +1,4 @@
-# This repository contains some of the work completed by me and another students during a computationa statistics course in my master's program!
+# This repository contains some of the work completed by me and another student during a computationa statistics course in my master's program!
 
 The code is written in R, using Rmarkdown and a pdf with the results have been generated.
 
