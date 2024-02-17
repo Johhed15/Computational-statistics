@@ -14,7 +14,8 @@ The code is written in R, using Rmarkdown and a pdf with the results have been g
 
 <br><br>
 
-# Example on how to solve the n-queens problem with the genetic algortihm(size of the board must be 4x4 or greater to be solved)
+# Example on how to solve the n-queens problem with the genetic algortihm
+### (size of the board must be 4x4 or greater to be solved)
 
 ```R
 # Creating an individual 
